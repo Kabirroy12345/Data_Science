@@ -70,8 +70,8 @@ Target:
 | Domain           | Progress        |
 | ---------------- | --------------- |
 | Python           | ██████████ 100% |
-| NumPy            | ███░░░░░░░ 30%  |
-| Pandas           | ░░░░░░░░░░ 0%   |
+| NumPy            | ██████████ 100% |
+| Pandas           | ██████████ 100% |
 | Statistics       | ░░░░░░░░░░ 0%   |
 | Machine Learning | ░░░░░░░░░░ 0%   |
 | Deep Learning    | ░░░░░░░░░░ 0%   |
