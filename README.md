@@ -72,6 +72,10 @@ Target:
 | Python           | ██████████ 100% |
 | NumPy            | ██████████ 100% |
 | Pandas           | ██████████ 100% |
+| Matplotlib       | ██████████ 100% |
+| Seaborn          | ██████████ 100% |
+| DataScrapping    | ██████████ 100% | 
+| SQL              | ░░░░░░░░░░ 0%   |
 | Statistics       | ░░░░░░░░░░ 0%   |
 | Machine Learning | ░░░░░░░░░░ 0%   |
 | Deep Learning    | ░░░░░░░░░░ 0%   |
